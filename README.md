@@ -1,7 +1,7 @@
 # Quantum Information Theory 
 A work in progress 
 
-Solutions to Wilde's Quantum Information Theory mainly for self study, but hopefully it'll be of use to those who want to learn about all things quantum. 
+Personal Quantum Information & Computing notes mainly for self study (along with solutions to exercises that I worked through in the textbooks I looked at), but hopefully it'll be of use to those who want to learn about all things quantum. 
 
 Book Recommendations: 
 
